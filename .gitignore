@@ -35,3 +35,4 @@
 .vscode/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#C++
+.vscode/settings.json
